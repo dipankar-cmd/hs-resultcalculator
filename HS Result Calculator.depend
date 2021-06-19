@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624093907 source:c:\users\hp\documents\c language projects\hs result calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
