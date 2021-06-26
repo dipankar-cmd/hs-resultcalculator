@@ -213,14 +213,8 @@ int main()
     printf("%s = %lf\n", asubject4, totalmarks12[3]);
     printf("%s = %lf\n", asubject5, totalmarks12[4]);
     printf("Grand Total = %lf\n", asubject5, totalmarks12[4]);
-
-
-
-
-
-
-
-
+    
+    
     return 0;
 }
 
